@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://TikhonenkoVV.github.io/mimino",
+  "homepage": "https://TatianaR1122.github.io/MIMIHO",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mimino/"
+    "build": "parcel build src/*.html --public-url /MIMIHO/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TikhonenkoVV/mimino.git"
+    "url": "git+https://github.com/TatianaR1122/MIMIHO.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
